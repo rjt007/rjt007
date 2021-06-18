@@ -3,5 +3,5 @@
   
   -reach me: [click here](mailto:rajatagrawal007.ra@gmail.com)
 ___
-
--->[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rjt007)](https://github.com/rjt007/github-contribution-stats/)
+|<img src="https://github-readme-stats.vercel.app/api?username=rjt007&hide=stars&count_private=true&show_icons=true&theme=gotham" alt="rjt007" width="420"> |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rjt007&theme=react)](https://git.io/streak-stats)
+|---|---|
