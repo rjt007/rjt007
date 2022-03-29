@@ -1,5 +1,5 @@
-### Hi there 👋 .This is Rajat Agrawal !
-  -A 3rd year IT Undergraduate @IIEST,Shibpur.
+### Hi there 👋 .This is Rajat Agrawal!
+  -A 3rd Year IT Undergraduate @IIEST,Shibpur.
   
   -Reach me: [click here](mailto:rajatagrawal007.ra@gmail.com)
 ___
